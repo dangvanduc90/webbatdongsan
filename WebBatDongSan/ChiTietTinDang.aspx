@@ -23,8 +23,37 @@
         </div>
         <div id="content">
             <form id="form2" runat="server">
-                <div>
-                    <asp:Label ID="tieude" runat="server" Visible="true"></asp:Label>
+                <div id="news">
+                    <div>
+                        <div class="boxblue">MỤC CHI TIẾT</div>
+                        <div class="chitiet">
+                            <div class="CTleft">
+                                <asp:Image ID="anh" runat="server" Visible="true" />
+                            </div>
+                            <div class="CTleft">
+                                <h3>
+                                    <b>
+                                        <asp:Label ID="tieude" runat="server" Visible="true"></asp:Label>
+                                    </b>
+                                </h3>                                
+                            </div>
+                            <div class="CTleft">
+                                <asp:Label ID="ngaydang" runat="server" Visible="true"></asp:Label>
+                            </div>
+                            <div class="CTleft">
+                                <asp:Label ID="dientich" runat="server" Visible="true"></asp:Label>
+                            </div>
+                            <div class="CTleft">
+                                <asp:Label ID="sotang" runat="server" Visible="true"></asp:Label>
+                            </div>
+                            <div class="CTleft">
+                                <asp:Label ID="gia" runat="server" Visible="true"></asp:Label>
+                            </div>
+                            <div class="CTleft">
+                                <asp:Label ID="vitri" runat="server" Visible="true"></asp:Label>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </form>
         </div>

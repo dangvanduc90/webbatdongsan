@@ -40,6 +40,15 @@ namespace WebBatDongSan {
         protected global::System.Web.UI.HtmlControls.HtmlForm form2;
         
         /// <summary>
+        /// anh control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image anh;
+        
+        /// <summary>
         /// tieude control.
         /// </summary>
         /// <remarks>
@@ -47,5 +56,50 @@ namespace WebBatDongSan {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label tieude;
+        
+        /// <summary>
+        /// ngaydang control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label ngaydang;
+        
+        /// <summary>
+        /// dientich control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label dientich;
+        
+        /// <summary>
+        /// sotang control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label sotang;
+        
+        /// <summary>
+        /// gia control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label gia;
+        
+        /// <summary>
+        /// vitri control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label vitri;
     }
 }

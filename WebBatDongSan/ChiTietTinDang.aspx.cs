@@ -39,6 +39,12 @@ namespace WebBatDongSan
                                 while (sd.Read())
                                 {
                                     tieude.Text = sd.GetString(3);
+                                    ngaydang.Text = sd.GetDateTime(4).ToLongDateString() ?? DateTime.Now.ToString("MM/dd/yyyy");
+                                    anh.ImageUrl = sd.GetString(5);
+                                    dientich.Text = sd.GetString(6);
+                                    sotang.Text = sd.GetInt32(7).ToString();
+                                    gia.Text = sd.GetInt32(8).ToString();
+                                    vitri.Text = sd.GetString(9);
                                     //Console.WriteLine("{0}\t{1}", sd.GetString(3),
                                     //    sd.GetString(1));
                                 }
