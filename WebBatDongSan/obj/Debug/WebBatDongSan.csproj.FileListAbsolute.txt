@@ -1,0 +1,10 @@
+c:\users\exorcist\documents\visual studio 2012\Projects\WebBatDongSan\WebBatDongSan\bin\WebBatDongSan.dll
+c:\users\exorcist\documents\visual studio 2012\Projects\WebBatDongSan\WebBatDongSan\bin\WebBatDongSan.pdb
+c:\users\exorcist\documents\visual studio 2012\Projects\WebBatDongSan\WebBatDongSan\obj\Debug\WebBatDongSan.csprojResolveAssemblyReference.cache
+c:\users\exorcist\documents\visual studio 2012\Projects\WebBatDongSan\WebBatDongSan\obj\Debug\WebBatDongSan.dll
+c:\users\exorcist\documents\visual studio 2012\Projects\WebBatDongSan\WebBatDongSan\obj\Debug\WebBatDongSan.pdb
+C:\Users\dangv\Desktop\web NC\WebBatDongSan\WebBatDongSan\bin\WebBatDongSan.dll.config
+C:\Users\dangv\Desktop\web NC\WebBatDongSan\WebBatDongSan\bin\WebBatDongSan.dll
+C:\Users\dangv\Desktop\web NC\WebBatDongSan\WebBatDongSan\bin\WebBatDongSan.pdb
+C:\Users\dangv\Desktop\web NC\WebBatDongSan\WebBatDongSan\obj\Debug\WebBatDongSan.dll
+C:\Users\dangv\Desktop\web NC\WebBatDongSan\WebBatDongSan\obj\Debug\WebBatDongSan.pdb
